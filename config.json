@@ -1,1 +1,16 @@
-{"Version":"1.1.7","ReleaseNotes":"تحديث جديد","Servers":[],"Networks":[{"Name":"نت مجاني خطوط اتصالات 🇪🇬","Payload":"","SNI":"Www.eand.com.eg","Info":"SSL Method","useTimer":true,"isSSL":true},{"Name":"رفع راوتر وي 🇪🇬","Payload":"","SNI":"ekb.eg","Info":"SSL Method","useTimer":true,"isSSL":true}]}
+{
+  "Version": "1.1.8",
+  "VersionCode": 118,
+  "ReleaseNotes": "تحديث جديد لضمان وصول الإعدادات",
+  "Servers": [],
+  "Networks": [
+    {
+      "Name": "نت مجاني خطوط اتصالات 🇪🇬",
+      "Payload": "",
+      "SNI": "Www.eand.com.eg",
+      "Info": "SSL Method",
+      "useTimer": true,
+      "isSSL": true
+    }
+  ]
+}
